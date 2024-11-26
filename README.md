@@ -1,6 +1,6 @@
-Not more like ‘Hello Folks!’ but more like ‘Hello World!’
+**Not more like ‘Hello Folks!’ but more like ‘Hello World!’**
 
-I'm Neonglitch
+## I'm Neonglitch
 
 This is my first writeup that im doing,
  And that too in Tryhackme! 
@@ -8,8 +8,8 @@ This is my first writeup that im doing,
 Lets cut to the chase!
 
 You will have to paste the IP & website name in the /etc/hosts initially..,
-
 after doing it you'll get this page:
+
 ![image](https://github.com/user-attachments/assets/4a0292f7-adf3-4b65-89f0-a46ae576f64c)
 
 
