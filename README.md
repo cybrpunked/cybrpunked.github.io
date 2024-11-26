@@ -1,13 +1,17 @@
 **Not more like ‘Hello Folks!’ but more like ‘Hello World!’**
 
-## I'm Neonglitch
+# I'm Cybrpunked
 
 This is my first writeup that im doing,
  And that too in Tryhackme! 
 
+Its Called Lookup
+
+![image](https://github.com/user-attachments/assets/ab207f5d-92cf-44d5-8ddd-a5ac93d09a7a)
+
 Lets cut to the chase!
 
-You will have to paste the IP & website name in the /etc/hosts initially..,
+You will have to paste the IP & website name in the /etc/hosts initially...
 after doing it you'll get this page:
 
 ![image](https://github.com/user-attachments/assets/4a0292f7-adf3-4b65-89f0-a46ae576f64c)
@@ -22,6 +26,7 @@ so i tried using nmap if i could get something
 -T4- : for the SPEED
 -p- : To scan ALL PORTS
 
+![image](https://github.com/user-attachments/assets/3514c0e8-2060-4707-82b7-a52f65cda053)
 
 
 We got the output, and we got not so much information...
