@@ -1,4 +1,4 @@
-**Not more like ‘Hello Folks!’ but more like ‘Hello World!’**
+**Not like ‘Hello Folks!’ but more like ‘Hello World!’**
 
 # I'm Cybrpunked
 
@@ -41,6 +41,7 @@ NOTE: I have changed the password to FUZZ
 
 ~$ ffuf -request log.brute -w /usr/share/wordlists/rockyou.txt -request-proto http -fs 62
 
+![image](https://github.com/user-attachments/assets/e7d08c34-d5a0-498d-a2d9-2d801adbf003)
 
 
 ~$ ffuf -request log.brute -w /usr/share/wordlists/seclists/usernames/xato-net-10-million-usernames.txt -request-proto http -fs 74
